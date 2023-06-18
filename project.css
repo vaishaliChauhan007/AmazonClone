@@ -8,6 +8,7 @@
     background-color: #0f1111;
     color: aliceblue;
     display: flex;
+    align-items: center;
 }
 .nav-logo{
     height: 50px;
@@ -24,4 +25,24 @@
 }
 .border:hover{
     border: 2px solid white;
+}
+/* box2 */
+.add-first{
+    color: #cccccc;
+    font-size: 0.85rem;
+    margin-left:15px;
+
+}
+.add-second{
+    font-size: 1rem;
+    margin-left: 3px;
+}
+.add-icon{
+    display: flex;
+    align-items: center;
+}
+.nav-search{
+    display: flex;
+    align-items: center;
+    background-color: blanchedalmond;
 }
